@@ -1,0 +1,2 @@
+#ignores specified files and doesn't upload them to github
+#e.g. typing credentials.php would prevent models/credentials.php from being pushed to the repo
